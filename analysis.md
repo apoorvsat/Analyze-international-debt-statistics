@@ -22,7 +22,7 @@ Access has been granted to the `international_debt` table, which is as follows:
 | indicator_code  | Code representing the debt indicator              | varchar   |
 | debt            | Value of the debt indicator for the given country | float     |
 
-The full table is provided in the in csv file 
+The full table is provided in [this csv file](international_debt.csv)
 
 First, we will take a look at the data in hand by selecting all the columns. Limiting the data to 10 rows to keep the output clean.
 
