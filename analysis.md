@@ -1,6 +1,6 @@
 # <p align="center" style="margin-top: 0px;"> 💸 Analyze International Debt Statistics 📊
 
-![dollar bill](dollar%20bill)
+![dollar bill](dollar%20bill.png)
 
 ---
 This report contains the solution of the SQL Project 'Analyze International Debt Statics' available on DataCamp. To access the complete project click on this [link](https://app.datacamp.com/learn/projects/1906).

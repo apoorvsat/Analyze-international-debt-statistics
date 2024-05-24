@@ -10,3 +10,5 @@ In this project, international debt data collected by The World Bank will be ana
 * What country has the highest amount of debt?
 * What country has the lowest amount of repayments?
 
+--- 
+The project's solution and analysis are provided in this file- [analysis.md]("analysis.md")
