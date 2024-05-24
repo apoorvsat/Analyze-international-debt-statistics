@@ -1,7 +1,9 @@
 # <p align="center" style="margin-top: 0px;"> 💸 Analyze International Debt Statistics 📊
 
+![dollar bill](dollar%20bill)
+
 ---
-This report contains the solution of the SQL Project 'Analyze International Debt Statics' available on DataCamp. To access the complete project click on this [link](https://app.datacamp.com/learn/projects/1906)
+This report contains the solution of the SQL Project 'Analyze International Debt Statics' available on DataCamp. To access the complete project click on this [link](https://app.datacamp.com/learn/projects/1906).
 
 # Introduction
 Humans not only take debts to manage necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
